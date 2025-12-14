@@ -22,6 +22,14 @@ yarn-error.log
 /client/.pub/
 /client/pubspec.lock
 
+# Flutter (Client)
+/client/build/
+/client/.dart_tool/
+/client/.flutter-plugins
+/client/.flutter-plugins-dependencies
+/client/.pub/
+/client/pubspec.lock
+
 # Expo (React Native)
 /react-native-client/.expo/
 /react-native-client/web-build/
