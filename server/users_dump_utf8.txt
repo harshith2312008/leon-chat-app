@@ -1,0 +1,15 @@
+﻿Connected to the SQLite database.
+[
+  {
+    "id": 1,
+    "username": "harshith",
+    "password": "$2b$08$0gWed8R1.vCxbcvI0io5HOZtAo7MuZUsbnhQXHNAqyZegP2OtBX5O",
+    "created_at": "2025-12-13 16:43:33"
+  },
+  {
+    "id": 2,
+    "username": "gagan",
+    "password": "$2b$08$GcYvD58H4OZA6srvm6HPleenLPE2ekMJYG4W35tAdSUyryyp.xH.C",
+    "created_at": "2025-12-13 16:44:11"
+  }
+]

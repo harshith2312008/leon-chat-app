@@ -1,0 +1,30 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Node.js (Server / React / React Native)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Flutter (Client)
+/client/build/
+/client/.dart_tool/
+/client/.flutter-plugins
+/client/.flutter-plugins-dependencies
+/client/.pub/
+/client/pubspec.lock
+
+# Expo (React Native)
+/react-native-client/.expo/
+/react-native-client/web-build/
+
+# Database (SQLite)
+/server/leon.db
